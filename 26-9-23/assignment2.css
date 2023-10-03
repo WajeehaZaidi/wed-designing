@@ -1,0 +1,60 @@
+#A
+{
+    text-align: center;
+    color: blueviolet;
+}
+#C{
+
+    text-align: center;
+    border: 1px;
+    padding-top: 2px;
+    background-color: rgba(8, 143, 64, 0.555);
+    border-style: ridge;
+    
+}
+#AB{
+    text-align: center;
+    border: 1px;
+    padding-right: 50%;
+    padding-left: 50%;
+
+    background-color: rgba(8, 143, 64, 0.555);
+    border-style: dotted;
+}
+body
+{
+    background-image: url("vecteezy_blue-green-teal-turquoise-abstract-watercolor-colorful-art_26712829_773.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+#A1 
+{
+    background-color: rgb(12, 45, 75);
+    color: rgb(137, 235, 181);
+}
+#A2
+{
+    background-color: rgb(13, 51, 85);
+    color: rgb(137, 209, 155);
+}
+#A3
+{
+    background-color: rgb(12, 50, 83);
+    color: rgb(138, 214, 142);
+}
+#O{
+    
+    padding: auto;  
+      margin: 10%;
+    border: 1px solid black;
+    
+}
+#Da,#Db{
+    background-color: rgba(137, 43, 226, 0.466);
+}
+#d1,#d3,#d5{
+    background-color: rgba(231, 12, 132, 0.521);
+}
+#d2,#d4,#d6{
+    background-color: rgba(0, 0, 0, 0.521);
+}

@@ -1,0 +1,26 @@
+.flex-container{
+justify-content: center;
+align-items: center;
+height: 200px;
+   display: flex;
+    font-size: 30px;
+background-color: rgba(34, 175, 152, 0.89);
+gap: 10px;
+}
+.box
+{
+    border: 3px solid black;
+   text-align: center;
+   padding-top: 2px;
+padding: 10px;
+margin: 3px;
+background: rgba(65, 215, 235, 0.877);
+}
+.box3,.box6,.box9{
+    background: blueviolet;
+   
+}
+.box{
+    flex : 0 1 500%;
+}
+

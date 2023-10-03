@@ -1,0 +1,38 @@
+#A {
+    color:blueviolet;
+    text-align: center;
+}
+#B
+
+{
+color: rgb(98, 19, 105);
+}
+body{
+    background-image: url("vecteezy_blue-green-teal-turquoise-abstract-watercolor-colorful-art_26712829_773.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+#C {
+    text-align: center;
+    border: 1px;
+    padding-top: 2px;
+    background-color: rgba(8, 143, 64, 0.555);
+    border-style: ridge;
+}
+#A1 
+{
+    background-color: rgb(12, 45, 75);
+    color: rgb(137, 235, 181);
+}
+#A2
+{
+    background-color: rgb(13, 51, 85);
+    color: rgb(137, 209, 155);
+}
+#A3
+{
+    background-color: rgb(12, 50, 83);
+    color: rgb(138, 214, 142);
+}

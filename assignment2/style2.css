@@ -1,0 +1,31 @@
+.grid-container {
+    display: grid;
+    gap: 10px;
+    background-color: #fbfbfc;
+    padding: 10px;
+  }
+  
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+  }
+  
+  .item1 {
+    grid-column: 1 / span 3;
+    grid-row: 2 / span 15;
+    background-color: #ca2f2fb4;
+  }
+  
+  .item2 {
+    grid-column: 1;
+    grid-row: 18 / span 30 ;
+    background-color: rgb(0, 255, 76);
+  }
+  
+  .item3 {
+    grid-column: 2 / span 2;
+    grid-row: 18 / span 30;
+    background-color: rgb(0, 140, 255);
+  }

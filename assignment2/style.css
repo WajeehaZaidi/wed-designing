@@ -4,14 +4,14 @@
     'sidebar1 ARTICLE ARTICLE ARTICLE ARTICLE siderbar2'
     'FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER';
 gap: 10px;
-background-color: rgba(137, 43, 226, 0.5);
+background-color: rgba(226, 43, 43, 0.5);
 padding: 10px;
 margin-left: 10%;
 margin-right: 40%;
 align-self: center;
 }
 .grid-container>div{
-    background-color: rgba(119, 46, 202, 0.774);
+    background-color: rgba(199, 94, 25, 0.774);
 padding: 50px ;
 font-size: 30px;
 text-align: center;
